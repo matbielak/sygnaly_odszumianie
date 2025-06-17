@@ -3,6 +3,14 @@
 * pliki .csv: kolumny oddzielone przecinkiem
 * każdy plik .csv powinien jako pierwszą kolumne mieć "czas"
 
+Wykorzystane biblioteki:
+* pandas
+* numpy
+* PyQt5
+* matplotlib.pyplot
+* scipy.signal
+
+
 ![image](https://github.com/user-attachments/assets/6c77cde0-4594-4417-a634-236924277a8d)
 ![image](https://github.com/user-attachments/assets/7f3b851b-4ff2-4b9f-ad8c-7f127a11e8aa)
 
